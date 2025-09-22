@@ -1,6 +1,7 @@
 {
   "name": "Custom Token List",
-  "logoURI": "https://raw.githubusercontent.com/khanitohm/usdt-token/main/tether-usdt-logo.png",
+  "logoURI": "https://raw.githubusercontent.com/khanitohm/usdtz.png/main/logo/logo.png
+",
   "timestamp": "2025-09-21T00:00:00+00:00",
   "tokens": [
     {
@@ -9,7 +10,8 @@
       "name": "USDT.z",
       "symbol": "USDTz",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/khanitohm/usdt-token/main/tether-usdt-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/khanitohm/usdtz.png/main/logo/logo.png
+"
     }
   ]
 }
