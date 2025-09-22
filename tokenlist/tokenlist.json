@@ -1,17 +1,15 @@
 {
-  "name": "Custom Token List",
-  "logoURI": "https://raw.githubusercontent.com/khanitohm/usdtz.png/main/logo/logo.png
-",
-  "timestamp": "2025-09-21T00:00:00+00:00",
+  "name": "USDTz List",
+  "timestamp": "2025-09-19T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xf341044850be6Df1C0867CCaA161DA8AD32039A7",
-      "name": "USDT.z",
-      "symbol": "USDTz",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/khanitohm/usdtz.png/main/logo/logo.png
-"
+      "address": "0x<YOUR_DEPLOYED_ADDRESS>",
+      "name": "USDTz Mock",
+      "symbol": "USDT.z",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/khanitohm/usdtz.png/main/logo/logo.png"
     }
   ]
 }
